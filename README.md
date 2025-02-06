@@ -21,9 +21,9 @@ Ecommerce Shop Landing Page by using:
 <p>
     To install this project, follow these steps:
 <ol>
-    <li>Clone the repository using the command: <code>git clone https://github.com/abhi-jais-11/shop.git</code></li>
+    <li>Clone the repository using the command: <code style="color:red;">git clone https://github.com/abhi-jais-11/shop.git</code></li>
     <li>Navigate to the cloned directory: <code>cd shop</code></li>
-    <li>Install the required dependencies using npm: <code>start index.html</code></li>
+    <li>Install the required dependencies using npm: <code >start index.html</code></li>
     <li>Open your preferred web browser and navigate to <code>http://localhost:5500</code></li>
 </ol>
 </p>
